@@ -1,6 +1,8 @@
 # game-questions
 ```
-Com esse projeto vamos aprender mais sobre [ Vuex, VueRouter, Axios] e lógica de programação!
+Esse é um projeto de Game de perguntas e respostas com integração da API opentdb.com.
+
+Nesse projeto vamos aprender mais sobre [ Integração de com API REST, VueRouter, Axios] e lógica de programação!
 ```
 [![N|Solid](https://assets.codepen.io/t-1003/internal/avatars/teams/default.png?fit=crop&format=auto&height=150&version=1513627136&width=150)]
 
